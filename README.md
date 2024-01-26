@@ -1,4 +1,4 @@
-# AvalancheAdv
+# Creating own subnet
 
 This code provides a brief understanding about the game that we created using own subnet.
 
